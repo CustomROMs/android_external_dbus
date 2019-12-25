@@ -1,3 +1,4 @@
+#pragma clang diagnostic ignored "-Wunused-parameter"
 /* -*- mode: C; c-file-style: "gnu"; indent-tabs-mode: nil; -*- */
 /* dispatch.c  Message dispatcher
  *

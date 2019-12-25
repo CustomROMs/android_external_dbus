@@ -1,3 +1,5 @@
+#pragma clang diagnostic ignored "-Wpointer-sign"
+#pragma clang diagnostic ignored "-Wunused-parameter"
 /* -*- mode: C; c-file-style: "gnu"; indent-tabs-mode: nil; -*- */
 /* driver.c  Bus client (driver)
  *
